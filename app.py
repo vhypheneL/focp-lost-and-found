@@ -71,6 +71,7 @@ HTML_TEMPLATE = """
             {% endfor %}
         </table>
     </div>
+    <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "49404520bdfd498384bb6c177577b484"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
 """
